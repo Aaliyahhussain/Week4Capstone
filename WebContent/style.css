@@ -1,0 +1,17 @@
+
+h1 {
+	color: #903e23;
+}
+
+body {
+	background-color: #f5eade;
+
+}
+
+div {
+    width: 10px;
+    border: 50x solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
